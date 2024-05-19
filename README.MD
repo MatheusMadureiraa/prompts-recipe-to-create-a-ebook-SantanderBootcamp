@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/apresentaçãoEbook.png"
     width="400"  
 />
 </p>
@@ -24,19 +24,19 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/MatheusMadureiraa/prompts-recipe-to-create-a-ebook-SantanderBootcamp/blob/main/Ebook%20-%20L%C3%B3gica%20em%20C.pdf" title="View Ebook"> 📕Clique para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas para realizar o projeto:
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [Copilot](https://copilot.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## 🧠 Prompts:
 
 
-ChatGPT：
+ChatGPT e Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +44,7 @@ ChatGPT：
 | conteúdo | Faça um texto para um capíitulo de ebook sobre Lógica de Programação em Linguagem C, introduzindo a linguagem C e listando as principais ferramentas usadas em algoritmos, dê exemplos com códigos, explicando-os em seguida. Siga as {REGRAS} para desenvolver o texto.{REGRAS}:- Explique de maneira simples, como se fosse para um leigo em programação- Deixe o texto enxuto/pequeno- Traga sempre exemplos de códigos em contextos reais- Sempre deixe um título sugestivo por tópico criado- Crie os capítulos numerando-os |
 
 
-Midjourney：
+Midjourney e Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -57,8 +57,8 @@ Midjourney：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas disponíveis na pasta `assets`
+- ebook gerado durante as aulas disponível em `Ebook - Lógica em C.pdf`
 
 ## 🛠️ Instruções de execução
 
